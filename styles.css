@@ -66,7 +66,7 @@ p {font-size: 18px; font-family: 'Times New Roman', Times, serif;}
     color: blue;
 }
 
-.reps {padding-left: 12.3%;}
+.reps {padding-left: 12.3%; padding: auto;}
 
 .img-inside-frame {width: 300px; height: 300px; padding-left: 2%;}
 
